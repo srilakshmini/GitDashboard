@@ -83,7 +83,8 @@ namespace GitDashBoard
         private void btnClone_Click(object sender, EventArgs e)
         {
             bg.RunWorkerAsync();
-            btnClone.Enabled = false; 
+            btnClone.Enabled = false;
+            MessageBox.Show("Success");  
         }
     }
 }

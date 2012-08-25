@@ -8,3 +8,13 @@ c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\ob
 c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\obj\x86\Debug\GenerateResource.write.1.tlog
 c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\obj\x86\Debug\GitDashBoard.exe
 c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\obj\x86\Debug\GitDashBoard.pdb
+C:\MergeRep\GitDashboard\GitDashBoard\obj\x86\Debug\GitDashBoard.exe
+C:\MergeRep\GitDashboard\GitDashBoard\obj\x86\Debug\GitDashBoard.pdb
+C:\MergeRep\GitDashboard\GitDashBoard\bin\Debug\GitDashBoard.exe
+C:\MergeRep\GitDashboard\GitDashBoard\bin\Debug\GitDashBoard.pdb
+C:\MergeRep\GitDashboard\GitDashBoard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MergeRep\GitDashboard\GitDashBoard\obj\x86\Debug\GitDashBoard.CloneRepo.resources
+C:\MergeRep\GitDashboard\GitDashBoard\obj\x86\Debug\GitDashBoard.Home.resources
+C:\MergeRep\GitDashboard\GitDashBoard\obj\x86\Debug\GitDashBoard.Properties.Resources.resources
+C:\MergeRep\GitDashboard\GitDashBoard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MergeRep\GitDashboard\GitDashBoard\obj\x86\Debug\GenerateResource.write.1.tlog
