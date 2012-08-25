@@ -1,0 +1,10 @@
+c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\bin\Debug\GitDashBoard.exe
+c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\bin\Debug\GitDashBoard.pdb
+c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\obj\x86\Debug\GitDashBoard.CloneRepo.resources
+c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\obj\x86\Debug\GitDashBoard.Home.resources
+c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\obj\x86\Debug\GitDashBoard.Properties.Resources.resources
+c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\obj\x86\Debug\GitDashBoard.exe
+c:\users\sree\documents\visual studio 2010\Projects\GitDashBoard\GitDashBoard\obj\x86\Debug\GitDashBoard.pdb
