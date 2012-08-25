@@ -27,7 +27,7 @@ namespace GitDashBoard
         {
             using (var repo = new Repository(@"C:\MergeRep\GitDashboard"))
             {
-                TreeChanges changes = repo.Diff.Compare(repo.Head.Tip.Tree, DiffTarget.WorkingDirectory);  
+                TreeChanges changes = repo.Diff.Compare(repo.Head.Tip.Tree, repo.Branches["newb"].Tip.Tree);  
             }
         }
     }
