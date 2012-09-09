@@ -35,7 +35,6 @@
             this.txtConsole = new System.Windows.Forms.TextBox();
             this.btnClone = new System.Windows.Forms.Button();
             this.bg = new System.ComponentModel.BackgroundWorker();
-            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -88,7 +87,7 @@
             // 
             this.btnClone.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnClone.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClone.Location = new System.Drawing.Point(199, 315);
+            this.btnClone.Location = new System.Drawing.Point(216, 316);
             this.btnClone.Name = "btnClone";
             this.btnClone.Size = new System.Drawing.Size(75, 33);
             this.btnClone.TabIndex = 5;
@@ -102,23 +101,11 @@
             this.bg.ProgressChanged += new System.ComponentModel.ProgressChangedEventHandler(this.bg_ProgressChanged);
             this.bg.RunWorkerCompleted += new System.ComponentModel.RunWorkerCompletedEventHandler(this.bg_RunWorkerCompleted);
             // 
-            // button1
-            // 
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(312, 315);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 33);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "Test";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
             // CloneRepo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(507, 360);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnClone);
             this.Controls.Add(this.txtConsole);
             this.Controls.Add(this.txtRemoteRepoURL);
@@ -141,6 +128,5 @@
         private System.Windows.Forms.TextBox txtConsole;
         private System.Windows.Forms.Button btnClone;
         private System.ComponentModel.BackgroundWorker bg;
-        private System.Windows.Forms.Button button1;
     }
 }

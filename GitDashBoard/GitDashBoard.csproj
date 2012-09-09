@@ -56,6 +56,12 @@
     <Compile Include="CloneRepo.Designer.cs">
       <DependentUpon>CloneRepo.cs</DependentUpon>
     </Compile>
+    <Compile Include="Copy of CloneRepo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Copy of CloneRepo.Designer.cs">
+      <DependentUpon>Copy of CloneRepo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Home.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +72,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CloneRepo.resx">
       <DependentUpon>CloneRepo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Copy of CloneRepo.resx">
+      <DependentUpon>Copy of CloneRepo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Home.resx">
       <DependentUpon>Home.cs</DependentUpon>
